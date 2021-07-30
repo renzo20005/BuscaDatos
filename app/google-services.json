@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656809387622",
+    "project_id": "buscar-datos",
+    "storage_bucket": "buscar-datos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656809387622:android:0dbb53be5f6e7e0f212fa7",
+        "android_client_info": {
+          "package_name": "com.demo.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656809387622-nboinpjl1lf2pilr5r07kd7n0n564nu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIRtVed2aQMQ3FRwangYF065MW5xwu4JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656809387622-nboinpjl1lf2pilr5r07kd7n0n564nu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
